@@ -28,13 +28,13 @@ Developed during an internship under the IEEE Computational Intelligence Society
   * [cite_start]*Abstract Summary Generator Unit (ASGU):* Generates fact-verified summaries using Pegasus and ROBERTa-MNLI[cite: 2915].
   * [cite_start]*Extract Summary Generator Unit (ESGU):* Utilizes SBERT and RAG for query-focused retrieval[cite: 2932].
 * [cite_start]**Research Team:** Co-authored with Sayan Chandra and Soumyajit Mukherjee, under the supervision of Dr. Jyoti Sekhar Banerjee[cite: 2757, 2758, 2762].
-* [Read the Full Research Paper ➔](#) (./CAVFIS.pdf)
+* [Read the Full Research Paper ➔](./CAVFIS.pdf)
 
 ### 🛡️ ZeroProof (Binary V2 Hackathon)
 Co-developed a mathematically anonymous, trustless feedback system within a 4-person team (Team SnackOverflow). The system prevents spam while ensuring the server cannot link authorized users to their responses.
 * **Cryptographic Protocol:** Implemented RSA Blind Signatures, exchanging unique invite URLs for unlinkable "voting tickets" to guarantee mathematical anonymity.
 * **Architecture:** Built an Admin Web App for organizations to manage contacts and questionnaires, paired with an open-source, auditable client app that generates a visual Security Pattern for respondents.
-* [View Repository ➔](#) *(Add your link here)*
+* [View Repository ➔] (./CAFVIS.pdf *(Add your link here)*
 
 ### 🍔 dev.restaurant Ecosystem
 A complete, production-ready microservice ecosystem for restaurant management, built across 4 distinct repositories. Orchestrated a highly scalable architecture handling real-time order lifecycles across customer, administrative, and delivery interfaces.
