@@ -28,7 +28,7 @@ Developed during an internship under the IEEE Computational Intelligence Society
   * [cite_start]*Abstract Summary Generator Unit (ASGU):* Generates fact-verified summaries using Pegasus and ROBERTa-MNLI[cite: 2915].
   * [cite_start]*Extract Summary Generator Unit (ESGU):* Utilizes SBERT and RAG for query-focused retrieval[cite: 2932].
 * [cite_start]**Research Team:** Co-authored with Sayan Chandra and Soumyajit Mukherjee, under the supervision of Dr. Jyoti Sekhar Banerjee[cite: 2757, 2758, 2762].
-* [Read the Full Research Paper ➔](./CAVFIS.pdf)
+* [📄 Read the Full Research Paper (PDF) ➔](https://github.com/somnath503/somnath503/blob/main/CAFVIS.pdf?raw=true)
 
 ### 🛡️ ZeroProof (Binary V2 Hackathon)
 Co-developed a mathematically anonymous, trustless feedback system within a 4-person team (Team SnackOverflow). The system prevents spam while ensuring the server cannot link authorized users to their responses.
