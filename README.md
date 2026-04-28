@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | IoT & Embedded Firmware Developer**
 
-I am a Software Engineer focused on designing secure, scalable backend architectures and connected device ecosystems. With a strong foundation in Java (Spring Boot) microservices and professional experience in hardware-level firmware development (C/C++), I build resilient systems that handle real-time data flow from the edge to the cloud. Whether I am implementing mathematically anonymous cryptographic protocols or bridging telemetry data for industrial IoT, I focus on writing clean, secure, and production-ready code.
+I am a Final-Year B.Tech(CSE) Student specializing in the design of secure, scalable backend architectures. With a strong foundation in Java (Spring Boot) microservices and professional experience in hardware-level firmware development (C/C++), I build resilient systems that handle real-time data flow from the edge to the cloud. Whether I am implementing mathematically anonymous cryptographic protocols or bridging telemetry data for industrial IoT, I focus on writing clean, secure, and production-ready code.
 
 🟢 I'm currently seeking remote opportunities and roles where I can contribute to challenging backend and IoT problems. Feel free to review my [Resume](https://github.com/somnath503/somnath503/blob/main/cv_somnath.pdf?raw=true), connect with me on [LinkedIn](https://www.linkedin.com/in/somnathpandit633/), or reach out directly via [email](mailto:somnathpandit633@gmail.com).
 
