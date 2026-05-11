@@ -1,6 +1,6 @@
 # Hi, I'm Somnath Pandit. 
 
-**Full-Stack Developer | IoT & Embedded Firmware Developer**
+**Full-Stack Developer | IoT Systems Developer**
 
 I am a Final-Year B.Tech(CSE) Student specializing in the design of secure, scalable backend architectures. With a strong foundation in Java (Spring Boot) microservices and professional experience in hardware-level firmware development (C/C++), I build resilient systems that handle real-time data flow from the edge to the cloud. Whether I am implementing mathematically anonymous cryptographic protocols or bridging telemetry data for industrial IoT, I focus on writing clean, secure, and production-ready code.
 
