@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Somnath Pandit! 👋</h1>
-<h3 align="center">Full-Stack Software & IoT Engineer | Edge-to-Cloud Systems</h3>
+<h3 align="center">Full-Stack Software & IoT Engineer </h3>
 
 <p align="center">
   <a href="https://github.com/somnath503/somnath503/blob/main/somnathpandit.pdf?raw=true">
@@ -57,9 +57,9 @@ Developed a hybrid AI framework designed to process and summarize complex academ
 
 ### 🚀 Featured Engineering Projects
 
-#### 🍽️ [dev.restaurant Ecosystem](https://github.com/dev-restaurant-system)
-A highly scalable 4-tier microservice system for seamless food delivery operations. Built a stateless Spring Boot API (JWT, RBAC) and orchestrated real-time order lifecycles across customer apps, delivery interfaces, and a React.js admin dashboard featuring POS billing and WebSockets.
-* 🔗 **[Live Demo](https://github.com/dev-restaurant-system/dev.restaurant-webapp)** | 💻 **[GitHub Organization](https://github.com/dev-restaurant-system)**
+#### 🧩 [Visual DAG Execution Platform](https://github.com/somnath503/dag-execution-platform)
+A visual node-based editor for designing and validating complex AI data pipelines directly in the browser. Implemented Kahn's Topological Sort Algorithm on the FastAPI backend to detect graph cycles in O(V + E) time.
+* 🔗 **[Live Demo](https://visual-pipeline-builder.netlify.app/)** | 💻 **[GitHub Repository](https://github.com/somnath503/dag-execution-platform)**
 
 #### 🕵️ [ZeroProof: Anonymous Feedback System](https://github.com/somnath503/ZeroProof) *(Binary V2 Hackathon)*
 Co-developed a mathematically anonymous, trustless feedback system preventing spam while decoupling voter identities from submission receipts. Implemented RSA Blind Signatures, OTP invite workflows, and secure REST APIs.
@@ -69,13 +69,16 @@ Co-developed a mathematically anonymous, trustless feedback system preventing sp
 A production-ready Applicant Tracking System featuring a decoupled architecture. Utilized direct PostgreSQL queries via the native `pg` client for zero-ORM performance overhead, enforcing strict schema validation with Zod.
 * 🔗 **[Live Demo](https://nexhireplatform.netlify.app/)** | 💻 **[GitHub Repository](https://github.com/somnath503/nexhire)**
 
-#### 🧩 [Visual DAG Execution Platform](https://github.com/somnath503/dag-execution-platform)
-A visual node-based editor for designing and validating complex AI data pipelines directly in the browser. Implemented Kahn's Topological Sort Algorithm on the FastAPI backend to detect graph cycles in O(V + E) time.
-* 🔗 **[Live Demo](https://visual-pipeline-builder.netlify.app/)** | 💻 **[GitHub Repository](https://github.com/somnath503/dag-execution-platform)**
 
 #### 🧬 [GA-Scheduler (NP-Hard Solver)](https://github.com/somnath503/ga-schedular)
 An offline-first Progressive Web App to solve the University Course Timetabling Problem entirely client-side. Designed a matrix-centric Genetic Algorithm achieving 42% faster convergence through targeted heuristic mutation.
 * 🔗 **[Live Demo](https://hybridga.netlify.app/)** | 💻 **[GitHub Repository](https://github.com/somnath503/ga-schedular)**
+
+
+
+#### 🍽️ [dev.restaurant Ecosystem](https://github.com/dev-restaurant-system)
+A highly scalable 4-tier microservice system for seamless food delivery operations. Built a stateless Spring Boot API (JWT, RBAC) and orchestrated real-time order lifecycles across customer apps, delivery interfaces, and a React.js admin dashboard featuring POS billing and WebSockets.
+* 🔗 **[Live Demo](https://github.com/dev-restaurant-system/dev.restaurant-webapp)** | 💻 **[GitHub Organization](https://github.com/dev-restaurant-system)**
 
 ---
 
