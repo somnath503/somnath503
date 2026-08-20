@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Software & IoT Engineer </h3>
 
 <p align="center">
-  <a href="https://github.com/somnath503/somnath503/blob/main/somnathpandit.pdf?raw=true">
+  <a href="https://github.com/somnath503/somnath503/blob/main/somnathpandit_cv.pdf?raw=true">
     <img src="https://img.shields.io/badge/📄_View_Resume-FF4B4B?style=for-the-badge&logo=Adobe-Acrobat-Reader&logoColor=white" alt="Resume" />
   </a>
   <a href="mailto:somnathpandit633@gmail.com">
