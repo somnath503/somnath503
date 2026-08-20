@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Somnath Pandit! 👋</h1>
-<h3 align="center">Full-Stack Software & IoT Engineer </h3>
+<h3 align="center">Software Engineer | Backend & IoT systems  </h3>
 
 <p align="center">
   <a href="https://github.com/somnath503/somnath503/blob/main/somnathpandit_cv.pdf?raw=true">
